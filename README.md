@@ -8,10 +8,10 @@ data structure, algorithm and problem solving
 
 ### Steps to solve problems
 1. Read and __understand__ the problem
-2. __Redefine__ the problem\n
+2. __Redefine__ the problem  
     break the problem into small pieces (_abstraction_) 
 3. Create solution plan (select algorithm and data stucture
-4. Carry out the plan (_implement_ codes)\n
+4. Carry out the plan (_implement_ codes)  
     __Complete one step__ before moving on another step
 
 #### After solving problems
