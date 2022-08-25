@@ -1,7 +1,8 @@
 # self_study
 data structure, algorithm and problem solving
+with BOJ online judge problems
 
-### goal : 
+### Goal : 
 1. 다양한 algorithm에 대한 깊은 이해  
     - algorithm의 목적  
     - algorithm이 적용되는 문제상황  
@@ -11,6 +12,13 @@ data structure, algorithm and problem solving
     - merge sort나 bfs/dfs 처럼 5분안에 implement 할 수 있도록 체화하기
 3. 문제 접근 및 이해 훈련  
     - abstraction
+
+
+### In progress
+1. Minimum Spanning Tree & Disjoint Set (Union-Find algorithm)  
+    - template    : done  
+    - explanation : in progress
+2. 
 
 
 ### Steps to solve problems
