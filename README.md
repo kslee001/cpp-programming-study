@@ -1,5 +1,5 @@
 # Cpp programming study
-- data structures, algorithms and problem solving (with BOJ online judge problems)
+- data structures, algorithms and problem solving with BOJ online judge problems
 ---
 
 ### Goal : 
