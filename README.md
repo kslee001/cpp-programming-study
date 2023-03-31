@@ -7,7 +7,7 @@
     - algorithm의 목적  
     - 적용되는 문제상황  
     - 구체적인 작동방식
-2. algorithm 별 template 개발  
+2. algorithm 별 __template__ 개발  
     - 문제 상황마다 고민할 필요 없이 효율적으로 구현하기 위함  
     - merge sort나 bfs/dfs 처럼 5분안에 implement 할 수 있도록 체화하는게 목적
 3. 문제 접근 및 이해 훈련  
